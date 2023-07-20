@@ -80,6 +80,16 @@
         android:layout_marginLeft="150dp"
         android:text="Hello World!" />
 
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/make"
+        android:layout_marginTop="370dp"
+        android:layout_marginLeft="150dp"
+        android:id="@+id/image"
+    ></ImageView>
+
     <ProgressBar
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
